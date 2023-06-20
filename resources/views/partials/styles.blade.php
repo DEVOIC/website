@@ -1,0 +1,34 @@
+<link rel='stylesheet' href='/public/assets/css/reset.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/css/wordpress.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/css/style.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/css/modulobox.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/css/left-align-menu.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/css/font-awesome.min.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/css/themify-icons.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/css/tooltipster.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/loftloader/assets/css/loftloader.min.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/elementor/assets/lib/animations/animations.min.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/elementor/assets/css/frontend-legacy.min.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/elementor/assets/css/frontend.min.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/before-after-image-comparison-slider-for-elementor/assets/css/twentytwenty.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/starto-elementor/assets/css/swiper.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/starto-elementor/assets/css/justifiedGallery.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/starto-elementor/assets/css/flickity.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/starto-elementor/assets/css/owl.theme.default.min.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/starto-elementor/assets/css/switchery.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/starto-elementor/assets/css/starto-elementor.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/starto-elementor/assets/css/starto-elementor-responsive.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/css/elementor/css/post-108477cb2.css?ver=1604581791' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/css/elementor/css/post-7785ae66.css?ver=1604581793' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/css/responsive.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/css/kirki-style.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/css/custom-css.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/starto-elementor/assets/css/typedjs.min.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/css/elementor/css/post-6496ceac.css?ver=1604581802' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/elementor/assets/lib/font-awesome/css/regular.min.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/elementor/assets/lib/font-awesome/css/brands.min.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='/public/assets/js/plugins/elementor/assets/lib/font-awesome/css/solid.min.css' type='text/css' media='all'/>
+
+	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.5.3' type='text/css' media='all'/>
